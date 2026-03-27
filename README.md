@@ -150,9 +150,4 @@ Generated outputs are stored inside the **backend folder**:
 
 ---
 
-# ⭐ Note
 
-This is a **prototype project** demonstrating Generative AI pipelines.
-It can be extended into a production-level system.
-
----
